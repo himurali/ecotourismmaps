@@ -52,6 +52,9 @@ Themes
 - [Karnataka Coastal Hot spots]()
 - [Karnataka Bird Hot spots](  )
 - [Karnataka Flora and Fauna](  )
+- [Karnataka Pilgrimage Eco Trails ](  )
+ 
+
 
 ###### tags: `#KarnatakaEcoTourism` `#EcoKarnataka`
  
